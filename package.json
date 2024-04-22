@@ -1,0 +1,23 @@
+{
+  "name": "playing_with_chatgpt",
+  "version": "1.0.0",
+  "description": "Some fooling around with Chat GPT",
+  "main": "sample-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLScotty/Playing_With_ChatGPT.git"
+  },
+  "author": "Scott Normore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NLScotty/Playing_With_ChatGPT/issues"
+  },
+  "homepage": "https://github.com/NLScotty/Playing_With_ChatGPT#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.38.2"
+  }
+}
